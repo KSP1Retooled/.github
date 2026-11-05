@@ -1,9 +1,9 @@
 # KSP Retooled
 
 KSP Retooled is a community made continuation of Kerbal Space Program.
-It is to bring KSP into the modern age, with Unity 6.7 and various performance
-improvements that can be made more easily now that we can directly change KSP's
-source.
+It aims to bring KSP into the modern age, with Unity 6.7 and various performance
+improvements that can be made easier.  Now that we can directly change KSP's
+source, many things become possible.
 
 We have taken special care to keep it compatible with stock KSP so that you
 can continue to use many of the mods that you know and love.

@@ -8,5 +8,18 @@ source, many things become possible.
 We have taken special care to keep it compatible with stock KSP so that you
 can continue to use many of the mods that you know and love.
 
-* Want to install Retooled? [Download the launcher](https://github.com/KSP1Retooled/launcher/releases).
-* Running into an issue? [Make a bug report](https://github.com/KSP1Retooled/retooled/issues).
+## Installation
+Retooled needs a special launcher to install. You can find the installer for
+your OS below:
+* [Windows](https://github.com/KSP1Retooled/launcher/releases/download/latest/KSPRetooled.Launcher-windows-x64-Setup.exe)
+* [Linux](https://github.com/KSP1Retooled/launcher/releases/download/latest/KSPRetooled.Launcher-linux-x64.AppImage)
+* [Macos (Arm64)](https://github.com/KSP1Retooled/launcher/releases/download/latest/KSPRetooled.Launcher-macos-arm64-Setup.pkg)
+* [Macos (x86-64)](https://github.com/KSP1Retooled/launcher/releases/download/latest/KSPRetooled.Launcher-macos-x64-Setup.pkg)
+
+The launcher will take care of patching KSP with any retooled version. Once the game
+is patched you can either run KSP through the launcher or start through steam or CKAN
+like you normally do.
+
+## Reporting Issues
+Running into an issue? Have a bug fix request or feature request?
+[You can file an issue!](https://github.com/KSP1Retooled/retooled/issues).

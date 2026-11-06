@@ -18,8 +18,27 @@ your OS below:
 
 The launcher will take care of patching KSP with any retooled version. Once the game
 is patched you can either run KSP through the launcher or start through Steam/CKAN
-like you normally do.
+like you normally do. Do note that MacOS Gatekeeper may not initially trust our patcher,
+but should have no issues after you authorize it once.
 
 ## Reporting Issues
 Running into an issue? Have a bug fix request or feature request?
 [You can file an issue!](https://github.com/KSP1Retooled/retooled/issues).
+
+## Mod Support
+If you are planning on running with mods, you should know that while most mods work on Windows
+and Linux just fine, Mac users may run into issues with visual mods due to missing shaders from 
+this builds transition from OpenGL to the Metal API.  We expect that to get better over time 
+though.
+
+Otherwise, for the moment most mods work!  You can generally set your CKAN (yes it works, we 
+identify as 1.13.0) compatibility to 1.12.5 and other than hardlocks, things load!  Not EVERYTHING
+though, we've identified a few core mods in the ecosystem that needed a little help, you can find 
+them in this list below and grab a ported copy to play with in the meantime:
+
+* [BurstPQS](https://github.com/KSP1Retooled/BurstPQS/releases)
+* [KSPBurst](https://github.com/KSP1Retooled/KSPBurst/releases)
+* [KSPTextureLoader](https://github.com/KSP1Retooled/KSPTextureLoader/releases)
+* [MechJeb2](https://github.com/KSP1Retooled/MechJeb2/releases)
+* [Shabby](https://github.com/KSP1Retooled/Shabby/releases)
+* [VABOrganizer](https://github.com/KSP1Retooled/VABOrganizer/releases)

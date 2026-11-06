@@ -17,7 +17,7 @@ your OS below:
 * [Macos (x86-64)](https://github.com/KSP1Retooled/launcher/releases/download/latest/KSPRetooled.Launcher-macos-x64-Setup.pkg)
 
 The launcher will take care of patching KSP with any retooled version. Once the game
-is patched you can either run KSP through the launcher or start through steam or CKAN
+is patched you can either run KSP through the launcher or start through Steam/CKAN
 like you normally do.
 
 ## Reporting Issues

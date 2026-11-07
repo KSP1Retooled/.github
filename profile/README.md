@@ -38,7 +38,6 @@ them in this list below and grab a ported copy to play with in the meantime:
 
 * [BurstPQS](https://github.com/KSP1Retooled/BurstPQS/releases)
 * [KSPBurst](https://github.com/KSP1Retooled/KSPBurst/releases)
-* [KSPTextureLoader](https://github.com/KSP1Retooled/KSPTextureLoader/releases)
 * [MechJeb2](https://github.com/KSP1Retooled/MechJeb2/releases)
 * [Shabby](https://github.com/KSP1Retooled/Shabby/releases)
 * [VABOrganizer](https://github.com/KSP1Retooled/VABOrganizer/releases)

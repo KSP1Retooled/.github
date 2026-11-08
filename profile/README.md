@@ -36,7 +36,6 @@ identify as 1.13.0) compatibility to 1.12.5 and other than hardlocks, things loa
 though, we've identified a few core mods in the ecosystem that needed a little help, you can find 
 them in this list below and grab a ported copy to play with in the meantime:
 
-* [BurstPQS](https://github.com/KSP1Retooled/BurstPQS/releases)
 * [KSPBurst](https://github.com/KSPModdingLibs/KSPBurst/releases/tag/v1.7.4.13)
 * [MechJeb2](https://github.com/KSP1Retooled/MechJeb2/releases)
 * [Shabby](https://github.com/KSP1Retooled/Shabby/releases)

@@ -37,5 +37,3 @@ though, we've identified a few core mods in the ecosystem that needed a little h
 them in this list below and grab a ported copy to play with in the meantime:
 
 * [MechJeb2](https://github.com/KSP1Retooled/MechJeb2/releases)
-* [Shabby](https://github.com/KSP1Retooled/Shabby/releases)
-* [VABOrganizer](https://github.com/KSP1Retooled/VABOrganizer/releases)

@@ -33,7 +33,4 @@ though.
 
 Otherwise, for the moment most mods work!  You can generally set your CKAN (yes it works, we 
 identify as 1.13.0) compatibility to 1.12.5 and other than hardlocks, things load!  Not EVERYTHING
-though, we've identified a few core mods in the ecosystem that needed a little help, you can find 
-them in this list below and grab a ported copy to play with in the meantime:
-
-* [MechJeb2](https://github.com/KSP1Retooled/MechJeb2/releases)
+though.  Hardcoded version locks will remain an issue until authors deal with them.

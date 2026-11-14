@@ -13,8 +13,8 @@ Retooled needs a special launcher to install. You can find the installer for
 your OS below:
 * [Windows](https://github.com/KSP1Retooled/launcher/releases/latest/download/KSPRetooled.Launcher-windows-x64-Setup.exe)
 * [Linux](https://github.com/KSP1Retooled/launcher/releases/latest/download/KSPRetooled.Launcher-linux-x64.AppImage)
-* [Macos (Arm64)](https://github.com/KSP1Retooled/launcher/releases/latest/download/KSPRetooled.Launcher-macos-arm64-Setup.pkg)
-* [Macos (x86-64)](https://github.com/KSP1Retooled/launcher/releases/latest/download/KSPRetooled.Launcher-macos-x64-Setup.pkg)
+* [Macos (Arm64)](https://github.com/KSP1Retooled/launcher/releases/latest/download/KSPRetooled.Launcher-macos-arm64.dmg)
+* [Macos (x86-64)](https://github.com/KSP1Retooled/launcher/releases/latest/download/KSPRetooled.Launcher-macos-x64.dmg)
 
 The launcher will take care of patching KSP with any retooled version. Once the game
 is patched you can either run KSP through the launcher or start through Steam/CKAN
